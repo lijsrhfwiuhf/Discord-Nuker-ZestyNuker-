@@ -1,6 +1,6 @@
-[# Discord-Nuker-ZestyNuker
+# Discord-Nuker-ZestyNuker
 
-How to use zestynuker.py
+How to use zestynuker!!!
 
 [1] Go to -> https://discord.com/developers/applications
 
@@ -20,7 +20,7 @@ How to use zestynuker.py
 
 [9] Now theres a box that says "Install Link", just make it "Discord Provided Link" and copy the link. (This is what you send to the victim for them to add the bot to their server)
 
-[10] Now open zestynuker.py
+[10] Now open zestynuker.exe
 
 [11] Now paste the token you saved before.
 

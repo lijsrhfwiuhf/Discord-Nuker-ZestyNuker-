@@ -32,4 +32,5 @@ How to use zestynuker!!!
 
 (The command to nuke is only authorized to you. The command is .nuke)
 
-](https://www.virustotal.com/gui/file/19cd77fac47bc8ae4c03f06a401e8f68651fc107c21c43a71a14e85260d67b74/detection)
+proof this aint no malware:
+(https://www.virustotal.com/gui/file/19cd77fac47bc8ae4c03f06a401e8f68651fc107c21c43a71a14e85260d67b74/detection)
